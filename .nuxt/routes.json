@@ -1,0 +1,9 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/var/www/tiktok/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1cd4293a"
+  }
+]
